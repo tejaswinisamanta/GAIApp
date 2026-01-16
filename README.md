@@ -1,10 +1,5 @@
 # GAIApp
 
-## by Team Chaos
-
-# Team Members
-Mereyli B., Emir K., Tejaswini S.
-
 # Problem
 How might we develop solutions to minimize the environmental impacts identified from Al usage?
 
@@ -14,12 +9,12 @@ The increasing AI prompt traffic makes it difficult for AI developers to maintai
 # Our Proposed Solution
 Our solution is a server manager, a middleman app between server providers and our clients - small and medium businesses - which would allow for a better sharing of server resources and also help limit the energy usage of the servers by scheduling them to turn on and off using an AI but also to divide server usage between different clients while assuring privacy, cost minimisation, and energy efficiency.
 
-# Role of AI in our Solution
+## Role of AI in our Solution
 AI will be used to manage connections between people to allocate tasks. Scheduling will enhance user sessions. AI would be able to shut down servers on demand, and divide the power used between the users for balanced processing power.
 
-# Backend
+## Backend
 Python + PyTorch + library : PSutil + matplotlib. 
-# Frontend
+## Frontend
 Figma ( future : React, Django, HTML and CSS + Javascript)
 
 
@@ -27,5 +22,3 @@ Figma ( future : React, Django, HTML and CSS + Javascript)
 <a href="https://www.youtube.com/watch?v=kBWVI3VlhhM">
   <img src="https://markdown-videos-api.jorgenkh.no/youtube/kBWVI3VlhhM">
 </a>
-
-# ----------------------------------------------------------------
